@@ -1,7 +1,7 @@
 MaxDepth: 6
-Generated: 14,878,332
-Expanded: 12,893,521
-Time: 22.69 seconds
-Expanded/Second: 568,367
-max_tile: 2048
-Score: 27,260
+Generated: 9,077,912
+Expanded: 7,928,581
+Time: 14.25 seconds
+Expanded/Second: 556,392
+max_tile: 1024
+Score: 14,444
